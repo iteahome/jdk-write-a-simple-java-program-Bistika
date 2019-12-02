@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/helloworldonintellij/helloworldonintellij.iml" filepath="$PROJECT_DIR$/helloworldonintellij/helloworldonintellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jdk-write-a-simple-java-program-Bistika.iml" filepath="$PROJECT_DIR$/.idea/jdk-write-a-simple-java-program-Bistika.iml" />
+    </modules>
+  </component>
+</project>
